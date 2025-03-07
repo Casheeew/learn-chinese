@@ -4,7 +4,7 @@ description: Immersion-based Chinese Learning.
 ---
 # Preamble
 
-<small>*If you don't need a preface, or just coming for a refresher, you may want to skip to the [guide](./guide.md).*</small> 
+<small>*If you don't need a preface or just dropping by for a quick refresher, feel free to skip ahead to the [guide](./guide.md).*</small> 
 
 ## 1.1 Why do people fail to learn a language?
 
@@ -16,14 +16,14 @@ Why is this the case? Might their methods be fundamentally flawed, or is languag
   ![](./assets/graphics/wobuganxin.jpeg){ width="475" }
 </figure>
 
-My opinion on the matter is that while there is such a thing as a best method for an individual, that doesn't mean it's best for everyone. 
+In my opinion, there is no outright good or bad method. While there is such a thing as a best method for an individual, that doesn't mean it's best for everyone. 
 
 Some people love textbooks, others find their flow with anime or movies, and some swear by language tutors. What works for one may not always work for another. 
 
 In this guide I will focus on immersion, a method that worked exceptionally well for me and many others.
 However, that doesn’t mean you need to follow every suggestion here to the letter. I don’t strictly adhere to everything I mention in this guide, and you shouldn’t feel obligated to either. Instead, experiment, adapt, and tailor the approach to suit your personal preferences. Every method contributes, the only difference is which sides you develop and how quickly[^1].
 
-[^1]: Duolingo is the only exception
+[^1]: Duolingo is an exception. In the next parts, you learn that it is dangerous to mix in extrinsic motivators to your already intrinsic motivation. Duolingo is built on badges, streaks and gamification. To keep users engaged, it has to put out easy, effortless content to sustain a sense of mastery.  However, these "bite-sized lessons" contribute little to actual language acquisition. True learning requires effort—there are no shortcuts.
 
 **The real root of the issue, I believe, lies in their mindset.**
 
@@ -46,11 +46,11 @@ Learning a language is a huge commitment.
 
 You may often consciously or unconsciously set ambitions for yourself&mdash;be it achieving in 6 months, climbing to the highest rank on a Discord server, or surpassing someone who started at the same time as you. While these goals are undoubtedly common, they are often unsustainable. Language learning doesn’t follow a straight path; progress is gradual, sometimes imperceptible, and at times, it may even feel like you’re moving backwards.
 
-In an attempt to stay on track, many people turn to paid classes or language apps, believing that a financial commitment will create an obligation to study[^2]. However, this external pressure may be hindering their progress rather than helping. When learning starts to feel like a chore, motivation tends to fade, making it even harder to stay consistent in the long run[^3].
+In an attempt to stay on track, many people turn to paid classes or language apps, believing that a financial commitment will create an obligation to study. However, this external pressure may be hindering their progress rather than helping[^2]. When learning starts to feel like a chore, motivation tends to fade, making it even harder to stay consistent in the long run[^3].
 
-[^2]: This is why I believe most people perceive textbook and tutors as being the wrong method.
+[^2]: This is why I believe most people from the immersion community perceive textbook and tutors as being the wrong method.
 
-[^3]: (Gneezy and Rustichini 2000a, b) https://www.jstor.org/stable/2586896?seq=4
+[^3]: This phenomenon is known as motivation crowding which has been extensively studied in psychology and economics. The papers [A Fine is a Price](https://www.jstor.org/stable/10.1086/468061?seq=1) and [Pay Enough or Don't Pay at All](https://www.jstor.org/stable/2586896?seq=1) describe the effect in great detail.
 
 ***“So how do I stay consistent?”*** you might ask.
 
