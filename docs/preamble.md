@@ -8,7 +8,7 @@ description: Immersion-based Chinese Learning.
 
 ## 1.1 Why do people fail to learn a language?
 
-Every New Year, millions of people set a resolution to learn a new language. They start with enthusiasm&mdash;signing up for language apps, buying textbooks, and proudly committing to their thousand-day Duolingo streaks. Yet, many fail to reach a high proficiency even after years of study.
+Every New Years, millions of people set a resolution to learn a new language. They start with enthusiasm&mdash;signing up for language apps, buying textbooks, and proudly committing to their thousand-day Duolingo streaks. Yet, many fail to reach a high proficiency even after years of study.
 
 Why is this the case? Might their methods be fundamentally flawed, or is language learning simply just too hard?
 
