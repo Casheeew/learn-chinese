@@ -9,6 +9,7 @@ nav:
   - Preamble: 'preamble.md'
   - Guide: 'guide.md'
   - Setup: 'setup.md'
+  - Credits: 'credits.md'
 theme:
   name: material
   favicon: assets/icon/yomitan-icon64.png

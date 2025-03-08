@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Guide
 description: Immersion-based Chinese Learning.
 ---
 # Guide

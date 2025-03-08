@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Preamble
 description: Immersion-based Chinese Learning.
 ---
 # Preamble

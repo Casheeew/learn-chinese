@@ -1,3 +1,8 @@
+---
+title: Setup
+description: Immersion-based Chinese Learning.
+---
+
 # Setup
 
 In this section, we will go through how to setup the various tools we will use to learn Chinese, specifically [**Anki**](https://ankiweb.net/) and [**Yomitan**](https://yomitan.wiki).
