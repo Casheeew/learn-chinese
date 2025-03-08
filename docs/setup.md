@@ -120,17 +120,17 @@ These add-ons are directly related to Chinese learning and have no direct use fo
 
 This is by far the most important add-on for mining. It allows one to use Yomitan to create cards automatically, more on this in the mining section below.
 
-#### 1.8 Enabling FSRS
+#### 1.6 Enabling FSRS
 
 FSRS is an alternative to the SM-2 algorithm for scheduling in Anki. I highly, highly suggest you use it. 
 To do this, provided you are on Anki 23.10 or higher, you simply need to open **deck options > Advanced**. There, enable FSRS. I highly suggest you read [this tutorial](https://github.com/open-spaced-repetition/fsrs4anki/blob/main/docs/tutorial.md) to get acquainted with the algorithm and see how it works.
 
-#### 1.9 Anki Setup Checklist
-- [ ] Install Anki  
-- [ ] Change settings  
-- [ ] Install fonts  
-- [ ] Install add-ons  
-- [ ] Enable FSRS  
+#### 1.7 Anki Setup Checklist
+- [ ] [Install Anki.](#12-installing-anki)
+- [ ] [Change settings.](#13-changing-your-settings)
+- [ ] [Install fonts.](#14-installing-fonts)
+- [ ] [Install add-ons.](#15-installing-basic-add-ons)
+- [ ] [Enable FSRS.](#16-enabling-fsrs)  
 
 ---
 
@@ -146,54 +146,92 @@ Yomitan is a browser-based pop-up dictionary that allows you to quickly look up 
 To install Yomitan, visit the [Yomitan homepage](https://yomitan.wiki) and download the extension for your browser. Upon installation, a quickstart guide will be presented to you. Be sure to read it to see how Yomitan works.
 
 #### 2.3 Adding Dictionaries
-Yomitan requires **third-party dictionaries**. To add them:
-1. Go to **Dictionaries > Configure installed and enabled dictionaries... > Import**.
-2. Install dictionaries in the order recommended [here](#).
 
-#### 2.4 Recommended Dictionaries
-##### **Japanese-English Dictionaries**
-- **JMdict or Jitendex** – General-purpose dictionary.
-- **JMnedict** – Japanese name dictionary.
+Yomitan requires third-party dictionaries to function. To install the dictionaries, go to **Dictionaries > Configure installed and enabled dictionaries... > Import**.
 
-##### **Grammar Dictionaries**
-- **Dictionary of Japanese Grammar** – Highlights grammar structures.
+![](./assets/graphics/dictionaries.jpg)
 
-##### **Japanese-Japanese Dictionaries**
-- **三省堂 8th Ed** – Beginner-friendly J-J dictionary.
-- **明鏡 2th Ed** – Main dictionary I use.
-- **デジタル大辞泉** – Comprehensive J-J dictionary.
+The dictionaries will take a bit of time to import, it is normal. Install dictionaries in the order given here.
 
-##### **Specialty Dictionaries**
-- **漢字ペディア同訓異義** – Differentiates similar kanji words.
-- **Pixiv Light** – Covers character names from Japanese media.
-- **実用日本語表現v2** – Common phrases and expressions.
-- **全国方言辞典** – Dialect dictionary (optional).
-- **Weblio古語辞典** – Classical Japanese dictionary (optional).
+There are many really good dictionaries. Some of them are listed under the recommended dictionaries tab. What dictionaries to use is a bit of personal preference. You should feel free to have a look around if you care for it.
 
-##### **Kanji Dictionaries**
-- **Kanji Jitenon** – Provides stroke order and kanji statistics.
+##### Chinese-English Dictionaries
 
-##### **Pitch Accent Dictionaries**
-- **NHK2016** – Covers pitch accent rules.
+###### [CEDICT](#)
 
-##### **Frequency Dictionaries**
-- **JPDB Frequency v2.2**
-- **VN Frequency**
-- **Novels Frequency**
-- **Anime & J-drama Frequency**
-- **YouTube Frequency v3**
-- **Wikipedia Frequency v2**
-- **BCCWJ SUW LUW**
-- **CC100**
-- **Innocent Ranked**
-- **Narou Frequency**
+General-purpose dictionary. // todo!
+
+##### Grammar Dictionaries
+
+This dictionary helps us noticing and understanding grammar patterns.
+
+###### [Chinese Grammar Wiki](#)
+
+// todo!
+
+
+
+##### Chinese-Chinese Dictionaries
+
+These dictionaries are monolingual, Chinese-Chinese dictionaries.
+
+###### [Moedict](#)
+
+Moe // todo!
+
+##### Specialty Dictionaries
+
+These dictionaries are also Chinese-Chinese but they focus on specific topics.
+
+Here be dragons // todo!
+
+##### Hanzi Dictionaries
+
+This dictionary will help us understand hanzi, giving us the most common words for a specific hanzi, stroke order and other statistics.
+
+Here be dragons // todo!
+
+
+##### Frequency Dictionaries
+
+Lastly, these dictionaries give us frequency informations for various words. This will be useful to sort new words by frequency (in Anki) which I prefer for absolute beginners. I recommend getting all of these as they allow you to have a more diversified frequency when sorting, but if you're only going to get one, make it //todo!.
+
+Here be dragons // todo!
+
+##### Other Possible Dictionaries
+
+As mentioned above, feel free to take a look at other dictionaries on //todo! and on //todo!'s page.
+
+#### 2.4 Configuring Yomitan
+
+!!! tip "Recommended Settings"
+    **You can simply get my recommended settings file [here](https://mega.nz/file/1nciCT5L#Ge5p04mG9DJut9hzDjfP--212TxcKGuMc3kLbNSdPN8). To import it, go under **Backup > Import Settings.** I cannot guarantee the rest of the setup works if you do not do this, because some important things require different settings in Yomitan, notably the mining portion of the guide.**
+
+As I have said before, I suggest you take some time to read the startup usage guide and see how Yomitan works for yourself. After this, you can disable it showing up every time you open your browser by ticking off Show usage guide on startup in the Yomitan settings menu (press on the cog wheel) under General. Here are a few more options you can take a look at if you would like to.
+
+##### Scanning
+
+You can change the default modifier key from <kbd>Shift</kbd> to something else if you'd rather. You can also choose `No key` which automatically looks up any Chinese it comes across for you without having you press any button. It can make looking up a specific word in a sea of Chinese words a bit tedious, but it also doesn't require you to press <kbd>Shift</kbd> all the time. You're free to choose whichever option you prefer. I use both <kbd>Shift</kbd> and `No Key` depending on what I'm reading.
+
+##### Popup
+
+Here you can decide to use `Allow scanning popup content` or not. It lets you scan words in the definitions of your dictionaries which is useful when you're reading monolingual dictionaries in Japanese. If you enable it, you might want to change the number in `Maximum number of child popups` to something higher, like 3-5.
+
+// todo! my personal rec is \infinity
+
+##### Audio
+
+You can adjust the volume audio if it is too loud for you. You can also add auto-play which immediately plays the audio of any word you look up. This is useful when using J-J dictionaries, but I personally don't use it. I highly suggest you set up a local audio server for Yomitan following [this guide](https://github.com/themoeway/local-audio-yomichan) if you haven't already done so.
+
+// todo! Check if this works for Chinese
 
 #### 2.5 Yomitan Setup Checklist
-- [ ] Install Yomitan  
-- [ ] Add dictionaries  
-- [ ] Configure settings  
+- [ ] [Install Yomitan.](#22-installing-yomitan)  
+- [ ] [Add dictionaries.](#23-adding-dictionaries) 
+- [ ] [Import my recommended settings.](#24-configuring-yomitan)  
+
+// todo! Yomitan Shortcuts
 
 ---
 
-This guide provides a **structured, efficient** approach to setting up **Anki and Yomitan** for Japanese learning. Follow each step carefully to optimize your experience. Happy studying! 🎌
-
+This is the end of the setup guide. If you came here from the general guide, click [here](./guide.md#21-setting-up-anki-and-yomitan) to come back to where you left off. Happy studying! 🎌
