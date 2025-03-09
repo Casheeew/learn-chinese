@@ -56,13 +56,13 @@ In an attempt to stay on track, many people turn to paid classes or language app
 
 The key is to shift your focus from goals to actions. 
 
-Instead of aiming to finish a book in a month, commit to reading 20 lines a day. Don’t worry about the 20 lines you have to read tomorrow, just focus on the 20 lines of today.
+Instead of aiming to finish a book in a month, commit to reading 20 lines a day. Don’t worry about the 20 lines you have to read tomorrow, just focus on the 20 lines of today[^4].
+
+[^4]: This process is often dubbed the Jsph way after a prominent person in the Japanese immersion community and personal friend.
 
 This mindset turns immersion into a routine, into something you do naturally everyday without too much thought. In time, you will be able to enjoy the book rather than stressing over the pages ahead.
 
-The same applies to Anki. Over time, reviewing flashcards may get tedious. But with a proper routine in place, you’ll be able to push through&mdash;just as when faced with a door you have to go through, you don't pause to deliberate; you simply open the door[^4].
-
-[^4]: This process is often dubbed the Jsph way after a prominent person in the Japanese immersion community and personal friend.
+The same applies to Anki. Over time, reviewing flashcards may get tedious. But with a proper routine in place, you’ll be able to push through&mdash;just as when faced with a door you have to go through, you don't pause to deliberate; you simply open the door.
 
 There will be times when you feel like you're hardly making any progress. When this happens, take a moment to reflect on how far you’ve come. Think about where you were a few weeks ago, a couple of months ago, even years ago. It’s easy to feel stuck in the moment, but when you pause and look back, you’ll find that you've come much further than you realize.
 

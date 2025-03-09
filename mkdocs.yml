@@ -50,6 +50,9 @@ extra:
   #     link: https://discord.gg/YkQrXW6TXF
   homepage: https://yomitan.wiki/ # todo!
   generator: false
+  analytics:
+    provider: google
+    property: G-8FHW6JX5B4
 
 markdown_extensions:
   - admonition
