@@ -1,21 +1,20 @@
 site_name: Learn Chinese
-# site_url: https://.wiki/
+site_url: https://casheeew.github.io/learn-chinese
 site_description: Immersion-based Chinese Learning
 site_author: Cashew
-# repo_url: https://github.com/yomidevs/yomitan
-# repo_name: Yomitan
+repo_url: https://ko-fi.com/cashewnuttynuts
+repo_name: Want to buy me a coffee?
 nav:
   - Home: 'index.md'
   - Preamble: 'preamble.md'
   - Guide: 'guide.md'
   - Setup: 'setup.md'
-  - Credits: 'credits.md'
 theme:
   name: material
   favicon: assets/icon/yomitan-icon64.png
   logo: assets/icon/yomitan-icon128.png
   icon:
-    repo: fontawesome/brands/github
+    repo: simple/buymeacoffee
   features:
     - navigation.tabs
     - navigation.sections
@@ -29,7 +28,6 @@ theme:
     - content.tabs.link
     - announce.dismiss
   language: en
-  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -48,7 +46,7 @@ extra:
   # social:
   #   - icon: fontawesome/brands/discord
   #     link: https://discord.gg/YkQrXW6TXF
-  homepage: https://yomitan.wiki/ # todo!
+  homepage: https://casheeew.github.io/learn-chinese
   generator: false
   analytics:
     provider: google

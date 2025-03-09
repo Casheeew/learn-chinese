@@ -8,6 +8,8 @@ Below is a simple roadmap for learning Chinese effectively. Each step, I explain
 
 All the steps outlined work towards immersion. While this will be the final and longest step of your journey, it should be most fun as you will be using Chinese to consume the media you love.
 
+<small>This roadmap is derived from [kuri's Learn Japanese roadmap](https://donkuri.github.io/learn-japanese/guide/#japanese-learning-guide).</small>
+
 ##### Chinese Learning Roadmap
 
 ![](./assets/graphics/roadmap.svg){ id="roadmap" }
@@ -21,7 +23,7 @@ All the steps outlined work towards immersion. While this will be the final and 
 !!! note "Pinyin vs. Zhuyin"
     If you are learning Taiwanese Mandarin, you might be looking to learn Zhuyin instead. However, since Pinyin is more common, this material will only cover it. If you're curious about the differences between Pinyin and Zhuyin, [see the addendum below](#pinyin-vs-zhuyin).
 
-The very first thing you should do is to learn Pinyin. Pinyin is a system used for spelling out Chinese sounds which uses the letters of the English alphabet that you are already familiar with. Practice by shadowing this Pinyin chart[^1].
+The very first thing you should do is to learn Pinyin. Pinyin (拼音) is a system used for spelling out Chinese sounds which uses the letters of the English alphabet that you are already familiar with. Practice by shadowing this Pinyin chart[^1].
 
 [^1]: If you are a linguistics student or otherwise can read the IPA, you may also find following the [Standard Chinese phonology wiki](https://en.wikipedia.org/wiki/Standard_Chinese_phonology) to be helpful when learning the sounds of Mandarin.
 
@@ -30,10 +32,23 @@ The very first thing you should do is to learn Pinyin. Pinyin is a system used f
 
 #### Quick tips
 
-- The letter *ū* is written as *u* when following *j*, *q*, *x*, or *y*.
-- The finals *ui*, *un*, and *iu* are contractions of *uei*, *uen*, and *iou* respectively. They pronounce the exact same.
-- *i* represents three distinct sounds depending on the initial that precedes it. When it follows *z*, *c*, *s*, it sounds like **zz**. When it follows *zh*, *ch*, *sh*, and *r*, it sounds like **rr**. In other cases, it sounds like the English **ee**.
-- The *an* in *'tian'* and *yuan* sounds like the English **yen**.
+<small>cf. [*i* with easy components](https://www.chinesepod.com/tools/pronunciation/section/8), [*i* with *z*, *c*, *s*, *zh*, *ch*, *sh*, *r*](https://www.chinesepod.com/tools/pronunciation/section/9), [sinosplice's pronunciation guide](https://www.sinosplice.com/learn-chinese/pronunciation-of-mandarin-chinese/2), [Refold's pinyin tips](https://zenith-raincoat-5cf.notion.site/Mandarin-Guide-82734307494a429c9ccf0b98e1d8a80c?pvs=25#eee2789bc56241d992ed97858fbc3017)</small>
+
+##### Spelling rules
+
+- When a syllable starts with *i*, replace *i* with *y* (*ya*, *ye*, *yao*). The exceptions are *yi*, *yin*, *ying* for *i*, *in*, *ing* and *you* for *iu*.
+- When a syllable starts with *u*, replace *u* with *w* (*wu*, *wan*, *wei*).
+- The letter *ü* is written as *u* when following *j*, *q*, *x*, or *y* (*ju*, *qu*, *xu*, *yu*).
+- The finals *ui*, *un*, and *iu* are contractions of *uei*, *uen*, and *iou*. They pronounce the exact same.
+- *ueng* is written as *ong* if preceded by an initial (*tong*, *dong*, *long*).
+
+##### Pronunciation tips
+
+- *i* represents three distinct sounds depending on the initial that precedes it.
+    - When it follows *z*, *c*, *s*, it sounds like **zz**. 
+    - When it follows *zh*, *ch*, *sh*, and *r*, it sounds like **rr**.
+    - In other cases, it sounds like the English **ee** (in the word *see*).
+- The *an* in *tian* and *yuan* sounds like the English **yen** (the Japanese currency).
 
 A good alternative that I highly recommend is following the [Chinese Pronunciation Wiki](https://resources.allsetlearning.com/chinese/pronunciation/Main_Page). It is a really good resource that I personally used, and I suggest going through all the articles at least once.
 
@@ -53,7 +68,10 @@ See [this video](https://www.youtube.com/watch?v=9MkRL33bIc8&t=6s) for a quick d
 
 ##### Are tones optional?
 
-No, tones are not optional. You must to learn them to understand Mandarin speech. Tones are a fundamental feature of the language. Sometimes, you may hear claims such as "even if you speak tones incorrectly, people will still understand from context". While this is occasionally true, many other times you will just not be understood.
+No, tones are not optional. You must learn them to understand Mandarin speech. Tones are a fundamental feature of the language. 
+Sometimes, you may hear claims such as "even if you speak tones incorrectly, people will still understand you from context". While this is occasionally true, many other times you will just not be understood. 
+
+While tempting to skip, having a good foundation early on will immensely help out in your immersion journey. 
 
 ##### Practice
 
@@ -63,13 +81,33 @@ No, tones are not optional. You must to learn them to understand Mandarin speech
 
 - **Train** tone pair recognition with [this tone trainer](https://www.dong-chinese.com/learn/sounds/pinyin/toneTrainer).
 
+Try to speak along so you understand how to produce the sounds. Active practice will help you internalize these tones and your pronunciation.
+
 ##### Tones are hard
 
-You don't have to perfect at hearing tones straight away. In fact, achieving a full score on the tone pair trainer will be incredibly challenging, and understanding tones in sentences spoken at a full native speed may even feel impossible at first.
+You don't have to become perfect at hearing tones straight away. In fact, achieving a good score on the tone pair trainer on its own will already feel challenging, let alone understanding tones in sentences spoken at full speed. At first, it might feel like you aren't making much progress, but don't worry—this is completely normal.
 
-This is completely normal.
+Tones are tricky, and they take time to master. Don't stress over not being able to hear them perfectly in the beginning. As long as you are aware of tones and stay mindful of them when listening, all your immersion hours will help bring up your ability to hear them. With consistent practice and exposure, you'll be able to tell them naturally.
 
-As long as you are aware of tones and stay mindful of them when listening, all your immersion hours will help bring up your ability to hear them. Don't stress over not being able to hear them perfectly early on. With time, you'll be able to tell them naturally.
+I highly suggest that you put a good amount of time into listening practice from the start. A lot of people struggle in recalling vocabulary precisely because they don't have good tone recognition. Being adept at tones early on will help you notice them during mining sessions and Anki reviews and make your immersion much more meaningful.
+
+##### Tones in practice
+
+###### Tonal combos (Tone sandhi)
+
+1. When a third tone (e.g., 你 *nǐ*) is followed by another third tone (e.g., 好 *hǎo*), the first one changes to second tone (你好 *níhǎo*). 
+2. When 不 (*bù*) is followed by a fourth tone (e.g., 对 *duì*), it changes to second tone (不对 *búduì*).
+3. When 一 (*yī*) is followed by a fourth tone (e.g., 个 *gè*), it changes to second tone (一个 *yígè*). When followed by any other tone (e.g., 天 *tiān*), it changes to fourth tone (一天 *yìtiān*).
+
+Note that we do not normally write the tone change. I'm just doing it here for demonstration.
+
+###### Tones in fast speech
+
+You might sometimes feel that tones, when spoken at full speed, sound a bit different from when spoken deliberately or in isolation. In fact, even when tones are muddled a little bit while speaking to make pronunciation easier, the difference between each tone is still maintained. However in actual speech, the rising part of the third tone is often less prominent, making it sound more like a low, creaky vocal fry.
+
+###### Mandarin varieties
+
+Although one could argue that it’s best to avoid Southern dialects due to their lack of certain sounds—such as the retroflex *sh* and *zh* as well as the distinction between *n* and *l*—many English speakers still prefer the southern pronunciation because it is easier to learn, with fewer sounds to master. In the end, the choice is yours.
 
 ##### Pronunciation
 

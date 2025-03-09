@@ -12,7 +12,7 @@ In this section, we will go through how to setup the various tools we will use t
 
 By the end of this section, you will have both tools installed and configured and ready to tackle your immersion studies.
 
-<small>This section is adapted from [Kuri's Learn Japanese guide](https://donkuri.github.io/learn-japanese/setup).</small>
+<small>This section is adapted from [kuri's Learn Japanese guide](https://donkuri.github.io/learn-japanese/setup).</small>
 
 ---
 
