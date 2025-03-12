@@ -22,7 +22,7 @@ All the steps outlined work towards immersion. While this will be the final and 
 ### 1.1 Learning the sounds
 
 !!! note "Pinyin vs. Zhuyin"
-If you are learning Taiwanese Mandarin, you might be looking to learn Zhuyin instead. However, since Pinyin is more common, this material will only cover it. If you're curious about the differences between Pinyin and Zhuyin, [see the addendum below](#pinyin-vs-zhuyin).
+    If you are learning Taiwanese Mandarin, you might be looking to learn Zhuyin instead. However, since Pinyin is more common, this material will only cover it. If you're curious about the differences between Pinyin and Zhuyin, [see the addendum below](#pinyin-vs-zhuyin).
 
 The very first thing you should do is to learn Pinyin. Pinyin (拼音) is a system used for spelling out Chinese sounds which uses the letters of the English alphabet that you are already familiar with. Practice by shadowing this Pinyin chart[^1].
 
