@@ -156,19 +156,40 @@ Here, 了 (le) is a particle that helps indicate a completed action, rather than
 
 To first get a good idea of Chinese grammar, I recommend **quickly skimming through the A1 articles** on the [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/). You don’t need to memorize them—just get a general sense of how grammar works. The real learning happens through immersion. As you encounter grammar in context, you’ll naturally internalize it.
 
-Treat grammar like vocabulary: when you see an unfamiliar particle, look it up with Yomitan to find the most relevant definition. Then, add it to Anki with the context surrounding it to reinforce your understanding. If you're still unsure, revisit the relevant article in the grammar guide.
-
 At this stage, reading the guide is still beneficial, as it explains very well how different particles combine and their distinctions. Over time, as you repeatedly see these structures in real-world contexts, their meanings and usage will become second nature.
 
 [^2]: See the [grammar section of the Wikipedia article for Mandarin Chinese](https://en.wikipedia.org/wiki/Mandarin_Chinese#Grammar).
 
-## 3. Immersion and output
+## 3. Immersion
 
-### 3.1 Consuming native content
+At this point, it's worth going over what immersion really is.
 
-If you're done with a core Anki deck (or well on your way) and you have some grammar under your belt, give yourself a pat on the back. You probably feel like you still don't know any Chinese. That's normal. You haven't really acquired much Chinese yet, but you have learned a good deal. It is now time to start the real journey. This step never technically ends as you will hopefully keep consuming Chinese content as you get better and better at the language. The main aspect of this section is to setup a mining deck. A mining deck is an Anki deck you create yourself using Yomitan on content that you read (or potentially watch with subtitles) where you "mine" words from sentences you see in the wild.
+Immersion is interacting with **natural content** in the target language—content produced by and made for native speakers of the language. In our narrow definition, immersion excludes content made or cherry-picked for learners. Reading books, listening to podcasts, and even browsing [小红书](https://www.xiaohongshu.com/) all qualify as immersion, as they expose you to the language in its authentic use.
 
-Creating a mining deck is a topic that deserves a thorough explanation and this task is undertaken on the [mining page - COMING SOON](#). I also recommend you start listening to Chinese actively as soon as you can. As said previously, media recommendations can be found on this page. Find a medium you like, be it dramas, donghua or Chinese TV and start listening. Do not be surprised if your ability to listen is wildly inferior to your ability to read at first. When reading you have a written support you can look at any time. Hanzi provide some meaning and help you read. If possible, try to find native speakers to output with. It's fun and motivating.
+Graded readers, textbooks or "Learn Chinese While Sleeping" videos do not fall into the realm of immersion. These resources, while useful in some contexts, often lack the richness and authenticity of native content. Because they are not intended for native speakers, they can be overly rigid, simplified, or stripped of valuable context, making them less effective for true immersion.
+
+With this out of the way, let's explore how best you can immerse to learn the language effectively.
+
+### 3.1 Beginner learning loop
+
+While some believe that you should finish your core vocabulary deck in its entirety before starting immersion, this is both unnecessary and incorrect. Likewise, you don’t need to read every article in a grammar guide or achieve perfect accuracy on tone pair tests before moving on. A balanced approach works best—it's much better to do a bit of everything. 
+
+// to do
+
+### 3.2 Setting up a mining flow
+
+Before diving into immersion, the first step is to set up a good mining flow.
+The exact process will differ from medium to medium and is explained in detail on the [mining page - COMING SOON](#).
+
+### 3.3 Immerse with listening
+
+https://learnjapanese.moe/guide/#how-to-immerse-with-listening
+
+### 3.4 Immerse with reading
+
+https://learnjapanese.moe/guide/#how-to-immerse-with-reading
+
+### 3.5 Grammar in immersion
 
 At this stage of the journey, it would still be useful to consult [your trusty resource](https://resources.allsetlearning.com/chinese/grammar/) for advanced grammar. The way I would study grammar is by doing the following:
 
@@ -179,15 +200,17 @@ At this stage of the journey, it would still be useful to consult [your trusty r
 
 The [grammar deck](https://ankiweb.net/shared/info/782551504) also helps out a lot.
 
-### 3.2 More talking and writing to Chinese natives
+## 4. Output
+
+### 4.1 More talking and writing to Chinese natives
 
 Once you have a good grasp of the language and can read more comfortably, it's a great idea to start speaking with natives often. Likewise, I recommend you start writing in Chinese (not necessarily physically of course) and have people correct you. This is not to say you cannot start output much earlier. If you have the opportunity to output earlier, do it and try to get corrected as often as possible, because getting good at reading is not enough to get good at writing, and likewise getting good at listening is not enough to get good at speaking. You need to actually produce (what we call output) and work in the language with others.
 
-### 3.3 On the topic of writing hanzi
+### 4.2 On the topic of writing hanzi
 
 _Coming soon_
 
-## 4. The next steps
+## 5. The next steps
 
 Whatever you want. Go take the HSK6,7,8,9 if you'd like, it's a nice achievement and you get recognized for your efforts. Learn Cantonese, Hokkien or any other Chinese language you're interested in. Tour in Hong Kong, Taiwan, China. You are now free to do whatever you want and enjoy the language in ways you would have never imagined. Here be dragons!
 
@@ -197,7 +220,7 @@ Here's a simple checklist of things you should do, in order:
 
 - [ ] Learn the sounds.
 - [ ] Drill the tones.
-- [ ] Setup Anki and Yomitan properly, including a mining deck.
+- [ ] Setup Anki and Yomitan properly, including a mining flow.
 - [ ] Finish a first vocabulary deck and grammar resource.
 - [ ] Get input and mine from Chinese content and try to get output with natives.
 - [ ] If desired, learn how to write.

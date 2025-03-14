@@ -48,7 +48,7 @@ You may often consciously or unconsciously set ambitions for yourself&mdash;be i
 
 In an attempt to stay on track, many people turn to paid classes or language apps, believing that a financial commitment will create an obligation to study. However, this external pressure may be hindering their progress rather than helping[^2]. When learning starts to feel like a chore, motivation tends to fade, making it even harder to stay consistent in the long run[^3].
 
-[^2]: This is why I believe most people from the immersion community perceive textbook and tutors as being the wrong method.
+[^2]: This is why I believe most people from the immersion community perceive textbook and tutors as being the wrong method. 
 
 [^3]: This phenomenon is known as motivation crowding which has been extensively studied in psychology and economics. The papers [A Fine is a Price](https://www.jstor.org/stable/10.1086/468061?seq=1) and [Pay Enough or Don't Pay at All](https://www.jstor.org/stable/2586896?seq=1) describe the effect in great detail.
 
